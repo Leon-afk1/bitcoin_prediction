@@ -1,7 +1,9 @@
 # Mini-Projet : Apprentissage par Renforcement et Analyse Comparative
 
 Cours 8INF867 - Fondamentaux de l'Apprentissage Automatique
+
 UQAC - Automne 2025
+
 Léon MORALES, Léonard ZIPPER
 
 ## Description
